@@ -584,6 +584,10 @@ img {
     fill: var(--cloud);
 }
 
+.footer-form-cont {
+    margin-left: 80px;
+}
+
 .footer-form-text {
     color: #ffffff;
     margin-bottom: 16px;
@@ -637,6 +641,7 @@ img {
 
 .footer-icon {
     margin-left: 16px;
+    fill: #FFF;
 }
 
 /**
