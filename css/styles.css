@@ -788,13 +788,12 @@ img {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-form-icon:hover,
-.modal-form-icon:focus {
+.modal-form-icon:hover {
     fill: var(--iris);
 }
 
 .modal-form-input:focus+.modal-form-icon {
-    stroke: var(--iris);
+    fill: var(--iris);
 }
 
 .modal-form-comment {
